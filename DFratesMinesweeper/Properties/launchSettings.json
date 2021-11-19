@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DFratesMinesweeper": {
+      "commandName": "Project",
+      "commandLineArgs": "-c"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\bin\Debug\netcoreapp3.1\DFratesMinesweeper.exe
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\bin\Debug\netcoreapp3.1\DFratesMinesweeper.deps.json
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\bin\Debug\netcoreapp3.1\DFratesMinesweeper.runtimeconfig.json
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\bin\Debug\netcoreapp3.1\DFratesMinesweeper.runtimeconfig.dev.json
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\bin\Debug\netcoreapp3.1\DFratesMinesweeper.dll
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\bin\Debug\netcoreapp3.1\DFratesMinesweeper.pdb
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.csprojAssemblyReference.cache
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.csproj.GenerateResource.cache
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.AssemblyInfoInputs.cache
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.AssemblyInfo.cs
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.csproj.CoreCompileInputs.cache
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.dll
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.pdb
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.genruntimeconfig.cache
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.Cell.resources
+C:\Users\danfr\C#\repos\DFratesMinesweeper\DFratesMinesweeper\obj\Debug\netcoreapp3.1\DFratesMinesweeper.MinesweeperForm.resources
